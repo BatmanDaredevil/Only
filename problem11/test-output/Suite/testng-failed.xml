@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="GET Call Test(failed)">
+    <parameter name="endpoint" value="/Library/Addbook.php"/>
+    <parameter name="baseUri" value="https://reqres.in"/>
+    <classes>
+      <class name="com.RestAssuredTest.RestAssuredTest">
+        <methods>
+          <include name="getCallTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.RestAssuredTest.RestAssuredTest -->
+    </classes>
+  </test> <!-- GET Call Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
