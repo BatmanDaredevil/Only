@@ -197,61 +197,93 @@ a. True
 b. False
 
 
-Q28. 
-Which of the following are the available disk options during VM provisioning?
-
-ayer anowered
-
+Q28. Which of the following are the available disk options during VM provisioning?
 Select one or more:
-
-earned our of 1
-
-a, Standard Persistent Disk
-
+a. Standard Persistent Disk
 b. General Storage
+c. SSD Persistent Disk,
+d. Standard Storage
 
-SSD Persistent Disk,
-
-4. Standard Storage
-
-Question 29
-
-Nut yet answered
-
-Abame out of s
-
-Pod, Replication Factor, and Service are few terms associated with service.
-
+Q29. Pod, Replication Factor, and Service are few terms associated with __ service.
 Select one
-
 a. Google CDN
+b. Google Compute Engine
+c. Google Container Engine
+d. Google Cloud Functions
+e. Google Dataproc
 
-Google Compute Engine
-
-Google Container Engine
-
-Od Google Cloud Functions
-
-Oe Google Dataproc
-
-Question 30
-
-Not yet answered
-
-Which of the following properties are associated with Google Containers?
-
-Mamed out of 1
-
+Q30. Which of the following properties are associated with Google Containers?
 Select one or more:
-
-Flag questio
-
-a Portable
-
-Self-Healing
-
-Heavy-Weight
-
+a. Portable
+b. Self-Healing
+c. Heavy-Weight
 d. Declarative
+e. Extensible
 
-Extensible
+Q31. Google Cloud Pub/Sub service doesn't have shards or partitions. State True or False
+Select one:
+a. True
+b. False
+
+Q32. Fraud Detection and Sentiment Analysis can be performed using
+Select one:
+a. Google Datalab
+b. Google Dataproc
+c. Google Dataflow
+d. Google Vision API
+e. Google Machine Learning
+
+Q33. Which Google service provides a simple programmatic interface for translating an arbitrary string into any supported language?
+Select one:
+a. Google Vision API
+b. Google Machine Learning
+c. Google NLAPI
+d. Google Speech API
+e. Google Translation API
+
+Q34. ___ option lets you privately connect two VPC networks, which can reduce latency, cost, and increase security
+Select one:
+a. VPC Network Peering
+b. Virtual Private Netw
+c. Shared VPC
+d. VPC Network
+
+Q35. Google Stackdriver supports which of the following features?
+Select one or more:
+a. Logging
+b. Monitoring
+c. Authentication
+d. Debugging
+e. Trace
+
+Q36. Google maintains the same configuration avatututtly in al Regions. State Thue or Fabe
+Select one:
+a. True
+b. False
+
+Q37. Identify the services which map with comecs BLA
+Select one or more
+a. GAE: 99.95
+b. GCE: 99.95
+c. Coutline Storage 99.0
+d.Multi-Region Storage: 99.9
+e. Cloud Spanner (multi-region): 99.99
+
+Q38. Under laaS, OS upgrade is ___ responsibility
+Select one
+a. Google's
+b. Customers
+c. Google and Customer's
+d. Automatic
+
+Q39. Firewall rules are global resources within a project State True of False
+Select one
+a. True
+b. False
+
+Q40. GAE managed runtime must confirm which of the following constraints?Select one or more
+a. Request must process within 60 sec
+b. Go language is acceptable
+c. Writting to Local File System is permitted
+d. Limited 3rd party tools can be installed
+
