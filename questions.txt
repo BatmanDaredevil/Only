@@ -1,0 +1,257 @@
+Q1. Which of the following statements are true?
+Select one or more:
+a. Region can have multiple Zones
+b. Region can have multiple data centers
+c. Country may have multiple Regions
+d. Zone can have multipis data centers
+e. Country may have multiple Zones
+
+Q2. Backend and Frontend terms are associated with service
+Select one
+a. Load Balancer
+b. Finwall Rute Ser
+c. Cloud DNS
+d. Cloud CDN
+e Instance Groups
+
+Q3. identify the Gloogle services that are deployed in multi-region
+Select one or more:
+a. Google BigQuery
+b. Google Compute Engine
+c. Google Datastore
+d. Google Bigtable
+e. Google App Engine
+
+Q4. GCP has more than ____ Point of Presence in 33 countries.
+Select one:
+a. 110+
+b. 100+
+c. 90+
+d. 70+
+e. 80+
+
+Q5. What is the maximum life of a preemptible VM7
+Select one
+a. Maximum 8 hours
+b. Minimum 24 hours
+c. Maximum 24 hours
+d. Minimum 8 hours
+
+Q6. Which of the following are Default storage options available for PHP application in Google App Engine?
+Select one or more:
+a. Google Datastore
+b. Cloud Spanner
+c. Google Bigtable
+d. Cloud SOL
+e. Google Cloud Storage
+
+Q7. GAE managed runtime supports for which of these languages?
+Select one or more:
+a. PHP
+b. C#
+c. Java
+d. Ruby
+e. Python
+
+Q8. Identify the PaaS service offering from GCP.
+Select one:
+a. Google Pub/Sub
+b. Google Compute Engine
+c. Google Container Engine
+d. Google Cloud Storage
+e. Google App Engine
+
+Q9. Identify the right mapping between NoSQL SQL schemas.
+Select one:
+a. Kind Row/Entity:Table/Property: Field/Key: Primary key
+b. Kind:Field/Entity: Table/Property: Row/Key: Primary key
+c. Kind Table/Entity:Row/Property: Field/Key: Primary key
+d. Kind: Row/Entity:Primary key/Property: Field/Key Table
+
+Q10. Google Big Query is charged based on which options?
+Select one:
+a. Data Size and number of Instances
+b. Number of Instances and Processing time
+c. Query Result Size and Data Storage
+d. Number of instances. Data Size and Processing time
+
+Q11. ___ service is designed to run hadoop, spark, and hive/pig on GCP
+Select one
+a. Google Pub/Sub
+b. Google Dataflow
+c. Google App Engine
+d. Google Dataproc
+e. Google Big Query
+
+Q12. GCP console can be used to generate a new key for an existing service account. It supports which of the following formats
+Select one or more
+a. JSON
+b. XML
+c. CSV
+d. P12
+e. P11
+
+Q13. Which of the following options are available for exporting the billing data?
+Select one or more:
+a. XML
+b. JSON
+c. Google Datantore
+d. CSV
+e. Google BigQuery
+
+Q14. What are the main objectives of Data Loss Prevention API?
+Select one or more:
+a. Encrypt the data
+b. Sanitize the data before storing
+c. Protect Data Deletion
+d. Protect Pil information
+e. Prevent Data Theft
+
+Q15. ___ is a collection of permissions.
+Select one:
+a. Google group
+b. Role
+c. Member
+d. Policy
+
+Q16. Using IAM, one can manage access control by del ging which of the following?
+Select one or more:
+a. role
+b. end user details
+c. identity
+d. descnption
+
+Q17. Which of the following are the features of Cloud Spanner?
+Select one or more:
+a. Horizontal Scalability
+b. 99.999 SLA
+c. SOL
+d. Automatic Replication
+e. NoSQL
+
+Q18. Cloud SQL is compliant for which privacy standards?
+Select one:
+a. SSAE 16/PCI DSS v3.0/HIPAA
+b. SSAE 16/ISO 27001/PCI DSS V3.0/ HIPAA
+c. ISO 27001/PCI DSS v3.0/HIPAA
+d. ISO 27017/PCI DSS v3.0
+
+Q19. Backup data or any other data which is accessed once a month is best suited to be stored on
+Select one:
+a. Regional
+b. Caidline
+c. Nearline
+d. Multi-Regional
+
+Q20. Cloud Spanner with multi-region provides the highest SLA in GCP. 
+Select one:
+a. True 
+b. False
+
+Q21. What do you mean by DRA In Google Cloud Storage?
+Select one
+a. Durable Reduced Avaliability
+b. Dependent Reduced Availability
+c. Dependable Reduced Availability
+d. Direct Reduced Availability
+
+Q22. What the following command would do: #gcloud compute instances create app-tier-zone us-eastt-b-project my-project
+Select one
+a. Creates an instance "app-tier" in "us-cast1-b" zone and under "my-project"
+b. Creates an instance under "my-project" where zone has no effect
+c. Creates an instance in "us-east1-D" zone under default project
+d. Creates an instance "app-tier" in "us-east1-b" zone under "my-project" running "Debian"
+e. Throws an error
+
+Q23. Which port does Windows rem access require to be open?
+Select one
+a. rdp:3389
+b. udp:3398
+c. tcp:3398
+d. tcp:3389
+
+Q24. Pre-emptibile VM can only be provisioned in certain regions. State True or False
+Select one
+a. True
+b. False
+
+Q25. Identify the possible Vit configurations in GCP
+Select one or more:
+a. [1X5]
+b. [6x37]
+c. [1X7]
+d. [4X25]
+e. [3x6]
+
+Q26. What is the maximum configuration possible using "Basic" account?
+Select one
+a. [8x64]
+b. [18x52]
+c. [10x64]
+d. [8X12]
+e. [10X96]
+
+Q27. Pre-emptible VM can offer upto 80% lower price. State True or False
+Select one:
+a. True
+b. False
+
+
+Q28. 
+Which of the following are the available disk options during VM provisioning?
+
+ayer anowered
+
+Select one or more:
+
+earned our of 1
+
+a, Standard Persistent Disk
+
+b. General Storage
+
+SSD Persistent Disk,
+
+4. Standard Storage
+
+Question 29
+
+Nut yet answered
+
+Abame out of s
+
+Pod, Replication Factor, and Service are few terms associated with service.
+
+Select one
+
+a. Google CDN
+
+Google Compute Engine
+
+Google Container Engine
+
+Od Google Cloud Functions
+
+Oe Google Dataproc
+
+Question 30
+
+Not yet answered
+
+Which of the following properties are associated with Google Containers?
+
+Mamed out of 1
+
+Select one or more:
+
+Flag questio
+
+a Portable
+
+Self-Healing
+
+Heavy-Weight
+
+d. Declarative
+
+Extensible
