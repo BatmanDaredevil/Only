@@ -323,3 +323,799 @@ a. Yes
 b. No
 c. Only if the tag "VPC Change Group" is true
 d. Only if the tag "VPC Change Group" is true
+
+
+Question 1
+
+Every AWS Region will have At least two availability Zone. State True or False.
+
+Select one:
+
+True
+
+False
+
+
+
+Which of the following is NOT an AWS region?
+
+
+
+Answer saved
+
+
+
+Select one:
+
+
+
+Marked out of 1
+
+
+
+a. Frankfurt
+
+
+
+Flag question
+
+
+
+Ob. Ireland
+
+
+
+c. Oregon
+
+
+
+d. Moscow
+
+
+
+e. Virginia
+
+
+
+
+
+Question 13
+
+Which of the following AWS tool utilizes edge locations to cache content and reduce latency?
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+Select one:
+
+
+
+a. RDS
+
+
+
+b. EC2 instances
+
+
+
+c. EBS storage
+
+
+
+Od. VPCS
+
+e. AWS CloudFront
+
+
+
+
+
+Question 14
+
+
+
+Which of the following statements are true about AZ? (Choose 2)
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+Select one or more:
+
+
+
+a.	A single zone equals a single data center
+
+
+
+b.	Multiple zones will fail if one zone fails
+
+
+
+
+
+c.	Multiple zones are physically connected on the same grid
+
+
+
+d.	A single zone can span multiple data centers
+
+
+
+
+
+✔e. Multiple zones are connected by low network links
+
+
+
+Question 16
+
+
+
+Which service is used to send alerts based on AWS CloudWatch Alarms?
+
+
+
+Answer saved
+
+
+
+Select one:
+
+
+
+Marked out of 1
+
+
+
+a.	AWS Trusted Advisor
+
+
+
+Flag question
+
+
+
+b.	AWS SOS
+
+
+
+c.	Amazon SES
+
+
+
+
+
+d.	Amazon SNS
+
+
+
+Question 18
+
+
+
+Answer saved
+
+
+
+Select one:
+
+
+
+Marked out of 1
+
+
+
+a. AWS IAM
+
+
+
+Flag question
+
+
+
+Which of the following services allows you to distribute load across multiple EC2 instances?
+
+
+
+b. AWS elastic load balances
+
+
+
+c. AWS Autoscaling
+
+
+
+Od. AWS Regions
+
+
+
+Question 22 Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+Which of these are not the benefits of AWS cloud computing? (Choose 2)
+
+
+
+Finish attempt….
+
+
+
+Time left 1:39:27
+
+
+
+Select one or more:
+
+
+
+a.	Temporary and disposal resources
+
+
+
+b.	High latency
+
+
+
+
+
+c.	High availability
+
+
+
+d.	Multiple procurement cycles
+
+
+
+
+
+Question 23
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Select one:
+
+
+
+Which feature of cloud computing can change in size or volume in order to meet user’s needs?
+
+
+
+a.	Virtualization
+
+
+
+Flag question
+
+
+
+Ob. Security
+
+
+
+b.	Scalability
+
+
+
+Od. Cost-SavingsQuestion 25
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+Each Amazon Elastic Block Store (EBS) volume is automatically replicated within its AZ. State True or False.
+
+
+
+Select one:
+
+
+
+Which AWS service is best suited to store archive data that does not need to be frequently accessed?
+
+
+
+Select one:
+
+
+
+a.	AWS Storage Gateway
+
+
+
+b.	Elastic Block Storage
+
+
+
+
+
+c.	Amazon Glacier
+
+
+
+Od. Amazon S3
+
+
+
+Question 26
+
+
+
+Answer saved
+
+
+
+State True or False,
+
+
+
+AWS services allow you to focus more resources and effort on innovation, while focusing less on system administration.
+
+
+
+Marked out of 1
+
+
+
+Select one:
+
+
+
+Flag question
+
+
+
+True
+
+
+
+O False
+
+
+
+X
+
+
+
+A
+
+
+
+Question 27
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+Which AWS storage service provides easy storage for static images, videos, and media files?
+
+
+
+Select one:
+
+
+
+a.	Amazon S3
+
+
+
+b.	Amazon Glacier
+
+
+
+
+
+c.	Amazon EC2 instance Storage
+
+
+
+Od. Amazon Elastic Block Store (EBS)
+
+
+
+Question 28
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+What AWS service can manage the work required to setup, operate, and scale a data warehouse?
+
+
+
+Select one:
+
+
+
+a.	Amazon DynamoDB
+
+
+
+b.	Amazon RDS
+
+
+
+
+
+c.	Amazon ElastiCache
+
+
+
+d.	Amazon Redshift
+
+
+
+
+
+Question 29
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+Which AWS service is the most appropriate for running dynamically generated websites?
+
+
+
+Select one:
+
+
+
+a.	Amazon S3
+
+
+
+b.	Amazon Elastic Block Storage.
+
+
+
+
+
+c.	Amazon DynamoDB
+
+
+
+d.	Amazon EC2
+
+
+
+
+
+Question 30
+
+
+
+Identify the five pillars of the AWS Well Architected Framework.
+
+
+
+Answer saved
+
+
+
+Marked out of t
+
+
+
+Flag question
+
+
+
+Select one:
+
+
+
+a.	Automation, Security, Elasticity, Performance, and Auto scaling
+
+
+
+Ob. Operational Excellence, Security, Reliability, Shared Responsibility, and Pay as you go
+
+
+
+b.	Operational Excellence, Security, Reliability, Performance Efficiency, and Optimization
+
+
+
+Od. Encryption, Security, Elasticity, Operational Excellence, and Optimization
+
+
+
+
+
+Question 31
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+Which AWS service can set your primary data on S3 while keeping a cached portion locally to provide integration between an on-premises IT environment and an AWS storage infrastructure?
+
+
+
+Select one:
+
+
+
+a.	AWS Storage Gateway
+
+
+
+b.	All of the listed options
+
+
+
+
+
+c.	AWS Import/Export
+
+
+
+Od. AWS Direct Connect
+
+
+
+X
+
+
+
+A
+
+
+
+5 6
+
+
+
+7
+
+
+
+8 9 10 11 12 13 14
+
+
+
+15 16 17 18 19 20 21
+
+
+
+22 23 24 25 26 27 28
+
+
+
+29 30 31 32 33 34 35
+
+
+
+36 37 38 39 40
+
+
+
+Question 32
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+Finish attempt…
+
+
+
+Time left 1:38:58
+
+
+
+A root account owner is trying to setup an additional level of security for all of his IAM users. Which of the below mentioned options is a recommended solution for the account owner?
+
+
+
+Select one:
+
+
+
+a.	Enable MFA for all IAM users
+
+
+
+b.	Enable MFA for the root account
+
+
+
+
+
+c.	Enable the password for all the IAM users
+
+
+
+Od. Enable access key and secret access key for all the IAM users
+
+
+
+Question 36
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+Which of the following statements are true? (Choose 3)
+
+
+
+Select one or more:
+
+
+
+a.	AWS Storage Gateway enables customers to store data in Amazon S3 from an on-premises appliance.
+
+
+
+b.	Amazon S3 is a persistent block store for use with Amazon EC2.
+
+
+
+
+
+c.	Amazon Glacier is a storage service that is for data archiving and backup.
+
+
+
+d.	Amazon EBS is a durable and scalable object storage that stores objects in buckets
+
+
+
+
+
+e.	AWS Import/Export enables customers to transfer large amounts of data into and out of the AWS Cloud.
+
+
+
+Question 38
+
+
+
+Answer saved
+
+
+
+Marked out of 1
+
+
+
+Flag question
+
+
+
+What items do you need the most to take into consideration, when estimating the cost of Amazon S3?
+
+
+
+Select one:
+
+
+
+a.	Network I/O, detailed monitoring, volume I/O, load balancing
+
+
+
+b.	Allocated volume storage, snapshot storage, I/O requests, and storage class
+
+
+
+
+
+c.	Storage class, storage, data transfer, and requests
+
+
+
+Od. Database instance class, data transfer, traffic distribution, and requests
+
+
+
