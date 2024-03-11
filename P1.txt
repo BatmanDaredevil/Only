@@ -440,42 +440,42 @@ d.	Amazon EC2
 Question 30
 Identify the five pillars of the AWS Well Architected Framework.
 Select one:
-a.	Automation, Security, Elasticity, Performance, and Auto scaling
+a. Automation, Security, Elasticity, Performance, and Auto scaling
 b. Operational Excellence, Security, Reliability, Shared Responsibility, and Pay as you go
-c.	Operational Excellence, Security, Reliability, Performance Efficiency, and Optimization
+c. Operational Excellence, Security, Reliability, Performance Efficiency, and Optimization
 d. Encryption, Security, Elasticity, Operational Excellence, and Optimization
 
 Question 31
 Which AWS service can set your primary data on S3 while keeping a cached portion locally to provide integration between an on-premises IT environment and an AWS storage infrastructure?
 Select one:
-a.	AWS Storage Gateway
-b.	All of the listed options
-c.	AWS Import/Export
+a. AWS Storage Gateway
+b. All of the listed options
+c. AWS Import/Export
 d. AWS Direct Connect
 
 Question 32
 A root account owner is trying to setup an additional level of security for all of his IAM users. Which of the below mentioned options is a recommended solution for the account owner?
 Select one:
-a.	Enable MFA for all IAM users
-b.	Enable MFA for the root account
-c.	Enable the password for all the IAM users
+a. Enable MFA for all IAM users
+b. Enable MFA for the root account
+c. Enable the password for all the IAM users
 d. Enable access key and secret access key for all the IAM users
 
 Question 36
 Which of the following statements are true? (Choose 3)
 Select one or more:
-a.	AWS Storage Gateway enables customers to store data in Amazon S3 from an on-premises appliance.
-b.	Amazon S3 is a persistent block store for use with Amazon EC2.
-c.	Amazon Glacier is a storage service that is for data archiving and backup.
-d.	Amazon EBS is a durable and scalable object storage that stores objects in buckets
-e.	AWS Import/Export enables customers to transfer large amounts of data into and out of the AWS Cloud.
+a. AWS Storage Gateway enables customers to store data in Amazon S3 from an on-premises appliance.
+b. Amazon S3 is a persistent block store for use with Amazon EC2.
+c. Amazon Glacier is a storage service that is for data archiving and backup.
+d. Amazon EBS is a durable and scalable object storage that stores objects in buckets
+e. AWS Import/Export enables customers to transfer large amounts of data into and out of the AWS Cloud.
 
 Question 38
 What items do you need the most to take into consideration, when estimating the cost of Amazon S3?
 Select one:
-a.	Network I/O, detailed monitoring, volume I/O, load balancing
-b.	Allocated volume storage, snapshot storage, I/O requests, and storage class
-c.	Storage class, storage, data transfer, and requests
+a. Network I/O, detailed monitoring, volume I/O, load balancing
+b. Allocated volume storage, snapshot storage, I/O requests, and storage class
+c. Storage class, storage, data transfer, and requests
 d. Database instance class, data transfer, traffic distribution, and requests
 
 
