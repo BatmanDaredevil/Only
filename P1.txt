@@ -165,6 +165,83 @@ b. AWS Trusted Advisor
 c. Reserved Instances
 d. AWS Spot Instances
 
+Question 21
+Storage solution can be used to store a large quantity of archive documents. Which one of the following storage solutions in AWS is best suited for this need?
+Select one
+a On Amazon EBS Volume
+b Amazon S3
+c Amazon EBS Snapshot
+d Amazon Glacier
+
+Question 22
+Which is the pricing model that allows AWS customers to pay for resources on an as needed basis?
+Select one
+a Pay as you go
+b Pay as you reserve
+c Pay as you buy
+d Pay as you use
+e Pay as you own
+
+Question 23
+What is the reason for customers switching to cloud computing?
+Select one
+a Finite infrastructure
+b Overprovisioning
+c instant configuration
+d Agility
+e Automation
+
+Question 24
+Each Amazon Elastic Block Store (EBS) volume is automatically replicated within its AZ. State True or False.
+Select one
+True
+False
+
+Question 25
+AWS Direct Connect in itself is not a data transfer service. Rather, AWS Direct Connect provides a high bandwidth backbone that can be used to transfer data between your corporate network and AWS securely without ever having the data routed over the internet. State
+Select one:
+True
+False
+
+Question 26
+The master account with root or admin-level access cannot be used as the sole access to the account. State True or False.
+Select one:
+True
+False
+
+Question 27
+Which tool will allow you to model the cost of a system on AWS?
+Select one:
+a. Detailed Billing Reports
+b. The AWS TCO Calculator
+c. The AWS Simple Monthly Calculator
+d. AWS Trusted Advisor
+
+Question 28
+What AWS Service would you use to establish a dedicated connection for data transfer from your data center into an Amazon region?
+Select one:
+a. All of the listed options.
+b. AWS Storage Gateway
+c. AWS Import/Export
+d. AWS Direct Connect
+
+Question 29
+Which AWS Service is responsible for running dynamically generated websites?
+Select one:
+a. Amazon EC2
+b. Amazon Elastic Block Storage
+c. Amazon S3
+d. Amazon DynamoDB
+
+Question 30
+When migrating objects less than 100GB to AWS Cloud, AWS service should you use.
+Select one:
+a. Amazon S3
+b. Amazon Kinesis
+c. AWS Lambda
+d. Amazon Glacier
+
+
 Question 31
 Which AWS service lets you automatically increase or decrease the compute capacity based on the parameters that defined?
 Select one:
@@ -246,214 +323,3 @@ a. Yes
 b. No
 c. Only if the tag "VPC Change Group" is true
 d. Only if the tag "VPC Change Group" is true
-
-
-Question 21
-
-Not yet answered
-
-10 11 12 13 14 15 16 17 18
-
-19 20 21 22 23 24 25 26 27
-
-28 29 30 31 32 33 34 35 36
-
-37 38 39 40
-
-Finish allempl
-
-Time left 1:40:01
-
-Marked out of 1
-
-Flag question
-
-Storage solution can be used to store a large quantity of archive documents. Which one of the following storage solutions in AWS is best suited for this need?
-
-Select one
-
-On Amazon EBS Volume
-
-Ob Amazon S3
-
-c Amazon EBS Snapshot
-
-d Amazon Glacier
-
-Question 22
-
-Not yet answered
-
-Marked out of 1
-
-Which is the pricing model that allows AWS customers to pay for resources on an as needed basis?
-
-Select one
-
-Pay as you go
-
-Flag question
-
-Question 23
-
-Not yet answered
-
-Marked out of 1
-
-Flag question
-
-Ob Pay as you reserve
-
-Pay as you buy
-
-Od Pay as you use
-
-Oe Pay as you own
-
-What is the reason for customers switching to cloud computing?
-
-Select one
-
-Oa Finite infrastructure
-
-Ob Overprovisioning
-
-instant configuration
-
-dAgility
-
-e Automation
-
-Question 24
-
-Not yn answered
-
-Markand out of 1
-
-Flag question
-
-Each Amazon Elastic Block Store (EBS) volume is automatically replicated within its AZ. State True or False.
-
-Select one
-
-True
-
-FalseQuestion 25
-
-Not yet answered
-
-Marked out of 1
-
-True or False
-
-AWS Direct Connect in itself is not a data transfer service. Rather, AWS Direct Connect provides a high bandwidth backbone that can be used to transfer data between your corporate network and AWS securely without ever having the data routed over the internet. State
-
-Flag question
-
-Select one:
-
-True
-
-O False
-
-X
-
-Q
-
-Question 26
-
-The master account with root or admin-level access cannot be used as the sole access to the account. State True or False.
-
-Not yet answered
-
-Select one:
-
-Marked out of 1
-
-O True
-
-Flag question
-
-False
-
-Question 27
-
-Not yet answered
-
-Marked out of 1
-
-Flag question
-
-Which tool will allow you to model the cost of a system on AWS?
-
-Select one:
-
-a. Detailed Billing Reports
-
-b. The AWS TCO Calculator
-
-c. The AWS Simple Monthly Calculator
-
-d. AWS Trusted AdvisorQuestion 28
-
-Not yet answered
-
-Marked out of 1
-
-Select one:
-
-What AWS Service would you use to establish a dedicated connection for data transfer from your data center into an Amazon region?
-
-a. All of the listed options.
-
-Flag question
-
-b. AWS Storage Gateway
-
-c. AWS Import/Export
-
-d. AWS Direct Connect
-
-X
-
-Q
-
-Question 29
-
-Not yet answered
-
-Marked out of 1
-
-Select one:
-
-a. Amazon EC2
-
-Flag question
-
-Which AWS Service is responsible for running dynamically generated websites?
-
-b. Amazon Elastic Block Storage
-
-c. Amazon S3
-
-Od. Amazon DynamoDB
-
-Question 30
-
-When migrating objects less than 100GB to AWS Cloud, AWS service should you use.
-
-Not yet answered
-
-Select one:
-
-Marked out of 1
-
-a. Amazon S3
-
-Flag question
-
-b. Amazon Kinesis
-
-c. AWS Lambda
-
-Od. Amazon Glacier
