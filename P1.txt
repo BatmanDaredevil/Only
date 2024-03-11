@@ -1,650 +1,248 @@
 Question 1
-Itis possible to change the size of a Virtual Private Cloud after its creation. State True or False.
+It is possible to change the size of a Virtual Private Cloud after its creation. State True or False.
 Select one:
 True
 False
 
 Question 2
 What is the ideal solution if you want the resources to be connected to the internet?
-
 Select one:
 a. Load Balancer
 b. Amazon Route 53
 c. Public Subnet
-d. Private SubnetQuestion 3
+d. Private Subnet
 
-Not yet answered
-
-Marked out of 1
-
-Flag question
-
+Question 3
 Select the correct option to isolate a section of the AWS cloud, and launch AWS resources in a defined virtual network.
-
 Select one:
-
 a. Security Tools
-
 b. Trusted Guide
-
 c. Virtual Private Cloud
+d. Shared Responsibility Model
 
-Od. Shared Responsibility ModelQuestion 4
-
-Not yet answered
-
-Marked out of 1
-
-Select one or more:
-
+Question 4
 Which responsibilities fall into the customer's domain in the shared responsibility model? (Choose 2)
-
+Select one or more:
 a. AWS encryption keys
-
-Flag question
-
 b. Client-side data encryption
-
 c. Global infrastructure
-
 d. Edge Locations
-
-✔e. IAM credentials.
-
-X
+e. IAM credentials.
 
 Question 5
-
-Not yet answered
-
-Marked out of 1
-
-Flag question
-
 Which of the following services would you use to save time, when deploying a complex set of services and to make the process of deploying those services repeatable?
-
 Select one:
-
 a. Elastic Bean Stalk
-
 b. AWS Cloud Formation
-
-Oc. Shared Responsibility Model
-
-Od. EC2
+c. Shared Responsibility Model
+d. EC2
 
 Question 6
-
-Not yet answered
-
-Marked out of 1
-
-Flag question
-
+As an alternative to prewarming the ELB, we can assign a smaller ELB to load balance between multiple ELBs. State True or False.
+Select one:
 True
-
 False
 
-As an alternative to prewarming the ELB, we can assign a smaller ELB to load balance between multiple ELBs. State True or False.
-
-Select one:Question 7
-
-Not yet answered
-
+Question 7
 How does an Elastic Load Balancer enable higher fault-tolerance level?
-
-Marked out of 1
-
 Select one:
-
 a. Creating subnets
-
-Flag question
-
 b. Open or terminate instances
-
 c. Creating the group of instances
-
 d. Dividing instances into several Availability Zones
 
-X
-
 Question 8
-
-Not yet answered
-
-Marked out of 1
-
-Select one:
-
-a. None of the listed options
-
-Flag question
-
 How does the Load Balancer distribute traffic if there is a HTTP/HTTPS request?
-
+Select one:
+a. None of the listed options
 b. Round Robin
-
 c. Least Outstanding request
-
 d. All of the listed options.
 
 Question 9
-
-Not yet answered
-
-Marked out of 1
-
-Flag question
-
 An online gaming site asked you if you could deploy a database that is fast, highly scalable NoSQL database service in AWS for a new site that they want to build. Which database should you recommend?
-
 Select one:
-
 a. Amazon DynamoDB
-
 b. Amazon Redshift
-
 c. Amazon RDS
+d. Amazon SimpleDB
 
-d. Amazon SimpleDBQuestion 9
-
-Not yet answered
-
-Marked out of 1
-
-Select one:
-
-Flag question
-
+Question 9
 An online gaming site asked you if you could deploy a database that is fast, highly scalable NoSQL database service in AWS for a new site that they want to build. Which database should you recommend?
-
+Not yet answered
+Select one:
 a. Amazon DynamoDB
-
 b. Amazon Redshift
-
 c. Amazon RDS
-
 d. Amazon SimpleDB
 
 Question 10
-
 What is an AWS region?
-
-Not yet answered
-
-Marked out of 1
-
 Select one:
-
-Flag question
-
 a. A region is an independent data center, located in different countries around the globe.
-
-Ob. A region is a collection of Edge locations.
-
+b. A region is a collection of Edge locations.
 c. A region consist of different subnets of AWS technologies. Eg. EC2, ECS, Lambda, and so on.
+d. A region is a geographical area that consists of different availability zones. Each region has at least two availability Zones.
 
-d. A region is a geographical area that consists of different availability zones. Each region has at least two availability Zones.Question 11
-
-Not yet answered
-
-23
-
-56
-
-8 9 10 11 12 13 14
-
-15 16 17 18 19 20 21
-
-22 23 24 25 26 27 28
-
-29 30 31 32 33 34 35
-
-36 37 38 39 40
-
-7
-
-Marked out of 1
-
-Flag question
-
+Question 11
 What level of control you have on you EC2? (Choose 2)
-
 Select one or more:
-
 a. You do not have partial control of your computing resources.
-
 b. You do not have control of your computing resources.
-
 c. You have partial control of your computing resources.
-
 d. You have complete control of your computing resources.
 
 Question 12
-
 Amazon S3 is a/an
-
-Not yet answered
-
 Select one:
-
-Marked out of 1
-
 a. Object store
-
-Flag question
-
 b. block store
-
-Finish attempt....
-
 c. File system
-
-Time left 1:48:33
-
-Od. NAS
+d. NAS
 
 Question 13
-
-Not yet answered
-
-Marked out of 1
-
-Flag question
-
 What best describes AWS EC2?
-
 Select one:
-
 a. A database service
-
 b. Unlimited mass storage
-
 c. An on premise server computer
+d. A virtual computer used primarily for its processing power
 
-d. A virtual computer used primarily for its processing powerQuestion 14
-
+Question 14
 What is an s3 bucket?
-
-Not yet answered
-
 Select one
-
-Markand out of 1
-
-a Abucket is a physical unit of storage in Amazon Web Services (AWS) object storage service.
-
-Flag question
-
+a. A bucket is a physical unit of storage in Amazon Web Services (AWS) object storage service.
 b. A bucket is a logical unit of storage in Amazon Web Services (AWS) EBS storage service
-
-A bucket is a logical unit of software in Amazon Web Services (AWS) object storage service.
-
+c. A bucket is a logical unit of software in Amazon Web Services (AWS) object storage service.
 d. A bucket is a logical unit of storage in Amazon Web Services (AWS) object storage service
 
 Question 15
-
 Which of the following is true about security groups? (Choose 2)
-
-Not yet answered
-
 Select one or more
-
-Marked out of 1
-
-All inbound traffic is allowed and outbound traffic is denied by defaull
-
-Flag question
-
-b Acts as a virtual firewall to control inbound and outbound traffic
-
-Acts as a virtual firewall to control outbound traffic only
-
+a. All inbound traffic is allowed and outbound traffic is denied by defaull
+b. Acts as a virtual firewall to control inbound and outbound traffic
+c. Acts as a virtual firewall to control outbound traffic only
 d. All inbound traffic is denied and outbound traffic is allowed by default
-
-e Acts as a virtual firewall to control inbound traffic only
-
-X
-
-Q
+e. Acts as a virtual firewall to control inbound traffic only
 
 Question 16
-
 AWS Service that can be used as global Content Delivery Network is
-
-Not yet answered
-
 Select one
-
-Marked out of 1
-
 a Amazon CloudTrail
-
-Flag question
-
-Ob Amazon SES
-
-AWS S3
-
+b Amazon SES
+c AWS S3
 d Amazon CloudFront
 
 Question 17
-
 What property of AWS helps you reduce the downtime with less human intervention?
-
-Not yet answered
-
 Select one
-
-Marked out of t
-
-Flag quasion
-
-a High Latency
-
+a. High Latency
 b. Cost Optimization
+c. Fault Tolerance
+d. High Availability
 
-Fault Tolerance
-
-Od High AvailabilityQuestion 18
-
+Question 18
 Which service is fully managed by AWS database service?
-
-Not yet answered
-
 Select one
-
-Marked out of 1
-
-Oa AWS Glue
-
-Flag question
-
-Amazon MySQL
-
-OcAmazon DynamoDB
-
+a. AWS Glue
+b. Amazon MySQL
+c. Amazon DynamoDB
 d. Amazon RDS
 
-X
-
-Q
-
 Question 19
-
 Select the service you will use if you want to monitor all events in your AWS account
-
-Not yet answered
-
 Select one
-
-Marked out of 1
-
-& AWS Cloudwatch Logs
-
-Flag question
-
-bAWS CloudTrail
-
-AWS Cloudwalch
-
-Od AWS Config
+a. AWS Cloudwatch Logs
+b. AWS CloudTrail
+c. AWS Cloudwalch
+d. AWS Config
 
 Question 20
-
-Not yet answered
-
 Your company has started using AWS Your IT security team is concerned with the security of hosting resources in the cloud Which AWS service provides security optimization recommendations that could help IT secunty team secure resources using AWS?
-
-Marked out of t
-
 Select one
+a. AWS API Gateway
+b. AWS Trusted Advisor
+c. Reserved Instances
+d. AWS Spot Instances
 
-Flag question
-
-AWS API Gateway
-
-b AWS Trusted Advisor
-
-Reserved Instances
-
-Od AWS Spot InstancesQuestion 31
-
-Quiz navigation
-
-23
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9 10 11 12 13 14
-
-15 16 17 18 19 20 21
-
-22 23 24 25 26 27 28
-
-29 30 31 32 33 34 35
-
-36 37 38 39 40
-
-Not yet answered
-
-Marked out of 1
-
-Select one:
-
+Question 31
 Which AWS service lets you automatically increase or decrease the compute capacity based on the parameters that defined?
-
+Select one:
 a. AWS Data Pipeline
-
-Flag question
-
 b. Amazon EC2
-
-Oc. Elastic Load Balancing
-
+c. Elastic Load Balancing
 d. Auto Scaling
 
-X
-
-Q
-
 Question 32
-
-Not yet answered
-
-Marked out of 1
-
-Flag question
-
-Finish attempt.....
-
-Time left 1:35:05
-
 A user is enabling logging on a particular bucket. Which of the below mentioned options may be best suited to allow access to the log bucket?
-
 Select one:
-
 a. Create an IAM Role, which has access to the log bucket
-
-Ob. Provide ACL for the logging group
-
+b. Provide ACL for the logging group
 c. It is not possible to enable logging on the S3 bucket
-
-Od. Create an IAM policy and allow log access
+d. Create an IAM policy and allow log access
 
 Question 33
-
-Not yet answered
-
-Select one:
-
-Marked out of 1
-
-a. Yes
-
-Flag question
-
 Identify the correct option for the following if a Reserved Instance can be moved from one Region to another.
-
-b. Only if they are moving into GovCloud
-
-c. No
-
-d. Only if they are moving to US East from another regionQuestion 34
-
-Not yet answered
-
-Marked out of 1
-
 Select one:
+a. Yes
+b. Only if they are moving into GovCloud
+c. No
+d. Only if they are moving to US East from another region,
 
+Question 34
 Which statement best describes Availability Zones?
-
+Select one:
 a. A restricted area designed specifically for creating Amazon Virtual Private Clouds.
-
-Flag question
-
 b. Two zones containing compute resources that are designed to maintain synchronized copies of data between each other.
-
 c. A content delivery network, which is used to distribute content to users.
-
 d. Distinct locations within an AWS Region that are engineered to be isolated from failures while providing low latency.
 
 Question 35
-
-Not yet answered
-
-Marked out of 1
-
-Flag question
-
 Which AWS Tool is designed to enable you to get hands-on experience with AWS Cloud services at no charge for 12 months after you sing up?
-
 Select one
-
 a. TCO Calculator
-
 b. Amazon EC2 purchasing option
-
 c. AWS Simple monthly calculator
-
 d. Free Tier
-
 e. Trusted Advisor
 
-X
-
-Q
-
 Question 36
-
-Not yet answered
-
-Marked out of 1
-
-Flag question
-
 Which of the database service is a fully managed NoSQL database service that provides fast and predictable performance?
-
 Select one:
-
 a. Amazon Relational Database Service
-
 b. Amazon ElastiCache.
-
 c. None of the listed options.
+d. Amazon DynamoDB
 
-d. Amazon DynamoDBQuestion 37
-
-Not yet answered
-
+Question 37
 Identify the scenario where a customer would most likely use Amazon EC2 Cluster Instances
-
-Marked out of 1
-
 Select one
-
 a. To create sriapshots of on-premises data to be copied to Amazon S3
-
-Flag questen
-
-Ob To replace on-premises or offsite magnetic tape libranes
-
-e. To automate deployment and management in AWS Cloud
-
-dTo automate deployment and management of applications for science and engineering that requires supercomputing performance
+b To replace on-premises or offsite magnetic tape libranes
+c. To automate deployment and management in AWS Cloud
+d. To automate deployment and management of applications for science and engineering that requires supercomputing performance
 
 Question 38
-
 A medical research facility that specializes in the development of specific vacanes is investigating options for storing historical clinical trial records that they no longer need to access on a regular basis, Which AWS Service is most central to this solution?
-
-Not yet answered
-
-Marked out of 1
-
 Select one
-
-Flag question
-
 a. Amazon Marketplace
-
-b Amazon EBS
-
-Amazon S3
-
+b. Amazon EBS
+c. Amazon S3
 d. Amazon Storage Gateway
-
 e. Amazon Glacier
 
-X
-
-Q
-
 Quretion 39
-
-Not vut anowaret
-
-Marked out of 1
-
-Select one
-
-Flag question
-
 Which statement is true about Bastion servers?
-
+Select one
 a. AWS maintain both Linux and Windows RDP bastions for access
-
 b. All of the listed options
-
-Bastions allow access to all resources inside AMS for both customers and AMS operators
-
-Od. Bastions are only accessible over your private connection
+c. Bastions allow access to all resources inside AMS for both customers and AMS operators
+d. Bastions are only accessible over your private connection
 
 Question 40
-
-Not yet answered
-
-Marked out of 1
-
-Select one
-
-Flag question
-
-a Yes
-
-No
-
 Identify whether a user can change the VPC security groups that it belongs to after an Amazon VPC instance is launched
-
+Select one
+a. Yes
+b. No
 c. Only if the tag "VPC Change Group" is true
-
-Od Only if the tag "VPC Change Group" is true
+d. Only if the tag "VPC Change Group" is true
